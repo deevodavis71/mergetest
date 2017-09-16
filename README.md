@@ -1,8 +1,10 @@
+EDIT IN ECLIPSE
+
 NEWER
 
 Line 1
 Line 2 - NEW
-Line 4
+Line 4 - 444
 Line 5
 
 Some changes here
