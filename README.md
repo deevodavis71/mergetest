@@ -1,6 +1,6 @@
 EDIT IN ECLIPSE
 
-NEWER - 1222222 BBBBBB
+NEWER - 1222222 BBBBBB DDDD
 
 Line 1
 Line 1a
@@ -17,7 +17,7 @@ NEW
 NEW 
 NEW
 
-Some newer lines
-PETER PIPER
+Some newer lines DDDDD
+PETER PIPER DDDDDD
 
 Non Conflicting change
