@@ -1,0 +1,23 @@
+[diff]
+  tool = meld
+
+[difftool]
+  prompt = false
+
+[difftool "meld"]
+  trustExitCode = true
+  cmd = meld.exe \"$PWD/$LOCAL\" \"$PWD/$REMOTE\"
+
+[merge]
+  tool = meld
+
+[mergetool]
+  prompt = false
+  keepBackup = false
+  keepTemporaries = false
+
+[mergetool "meld"]
+  trustExitCode = false
+  cmd = meld.exe --auto-merge \"$PWD/$LOCAL\" \"$PWD/$BASE\" \"$PWD/$REMOTE\" --output=\"$PWD/$MERGED\"
+
+
