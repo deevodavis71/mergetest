@@ -2,6 +2,8 @@ EDIT IN ECLIPSE
 
 NEWER
 
+Line 1
+Line 1a
 Line 1b
 Line 2 - NEW
 Line 4 - 444
