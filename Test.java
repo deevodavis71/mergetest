@@ -1,6 +1,6 @@
 package com.sjd;
 
-public class SteveX {
+public class SteveX2 {
 
 	public static void main (String[] args) {
 
