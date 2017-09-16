@@ -1,8 +1,11 @@
 EDIT IN ECLIPSE
 
-NEWER - 1222222 BBBBBB
+NEWER - 1222222 BBBBBB CCCCCC
 
 Line 1
+
+Another non conflicting change
+
 Line 1a
 Line 1b
 Line 2 - NEW
@@ -14,10 +17,10 @@ Some changes here - SECONDE
 Line 6Line 7
 
 NEW
-NEW 
+NEW more non-conflicting
 NEW
 
 Some newer lines
-PETER PIPER
+PETER PIPER CCCCC
 
 Non Conflicting change
