@@ -1,7 +1,9 @@
 Line 1
 Line 2 - NEW
-Line 3
 Line 4
 Line 5
-Line 6
-Line 7
+Line 6Line 7
+
+NEW
+NEW 
+NEW
