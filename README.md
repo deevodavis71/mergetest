@@ -1,10 +1,10 @@
 EDIT IN ECLIPSE
 
-NEWER - 1222222 BBBBBB DDDD
+NEWER - 1222222 BBBBBB DDDD EEEEE
 
 Line 1
 
-Another non conflicting change
+Another non conflicting change here
 
 Line 1a
 Line 1b
