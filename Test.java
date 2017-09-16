@@ -1,6 +1,6 @@
 package com.sjd;
 
-public class Steve {
+public class SteveY {
 
 	public static void main (String[] args) {
 
