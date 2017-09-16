@@ -2,12 +2,12 @@ EDIT IN ECLIPSE
 
 NEWER
 
-Line 1
+Line 1b
 Line 2 - NEW
 Line 4 - 444
 Line 5
 
-Some changes here
+Some changes here - SECONDE
 
 Line 6Line 7
 
