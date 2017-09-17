@@ -6,6 +6,8 @@ public class SteveX2 {
 
 		System.out.println ("NEW More Hello to young Steves New MT2 Changed World!");
 
+		// More non conflixts
+
 		// Do some work here! CONFLICT CHANGED HERE AS WELL
 		// New line that is changed
 
@@ -17,9 +19,11 @@ public class SteveX2 {
 		// Non conflicting change - for diff
 		// NEW
 
-		// Another line
+		// Another line that's causing an issue
 
 		// A new non-conflicting line
+
+		// New non conflict
 
 	}
 
