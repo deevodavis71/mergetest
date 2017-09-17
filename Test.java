@@ -15,6 +15,7 @@ public class SteveX2 {
 
 
 		// Non conflicting change - for diff
+		// NEW
 
 	}
 
