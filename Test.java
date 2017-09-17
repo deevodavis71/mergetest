@@ -17,7 +17,7 @@ public class SteveX2 {
 		// Non conflicting change - for diff
 		// NEW
 
-		// Another line
+		// Another line with a random conflict
 
 		// A new non-conflicting line
 
