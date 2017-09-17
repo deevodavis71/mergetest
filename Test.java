@@ -6,7 +6,7 @@ public class SteveX2 {
 
 		System.out.println ("NEW More Hello to young Steves New MT2 Changed World!");
 
-		// More non conflixts 2222222222222222
+		// More non conflixts 2222222222222222 AAAA
 		// More non conflixts
 		// More non conflixts 1111
 
@@ -26,6 +26,8 @@ public class SteveX2 {
 		// A new non-conflicting line
 
 		// New non conflict
+
+		// Test out auto merge window hiding
 
 	}
 
