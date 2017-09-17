@@ -6,7 +6,7 @@ public class SteveX2 {
 
 		System.out.println ("NEW More Hello to young Steves New MT2 Changed World!");
 
-		// More non conflixts 2222222222222222
+		// More non conflixts 2222222222222222 BBBBBB
 		// More non conflixts
 		// More non conflixts 1111
 
@@ -17,6 +17,7 @@ public class SteveX2 {
 		// Non conflict?
 		// Another crazy diff by someone else MT & MT2
 
+		// New non-conflist
 
 		// Non conflicting change - for diff
 		// NEW
