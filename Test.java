@@ -13,7 +13,7 @@ public class SteveX2 {
 		// Another crazy diff by someone else MT & MT2
 
 
-		// Non conflicting change
+		// Non conflicting change - for diff
 
 	}
 
