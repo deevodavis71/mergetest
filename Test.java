@@ -9,7 +9,7 @@ public class SteveX2 {
 		// Do some work here!
 		// New line
 
-		// Some diff MT
+		// Some diff MT & MT2
 		// Another crazy diff by someone else MT & MT2
 
 	}
