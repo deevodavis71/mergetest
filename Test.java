@@ -6,7 +6,7 @@ public class SteveX2 {
 
 		System.out.println ("NEW More Hello to young Steves New MT2 Changed World!");
 
-		// Do some work here! CONFLICT TEST DIFFMEREGE
+		// Do some work here! CONFLICT TEST DIFFMEREGE MORE CHANGES
 		// New line that is changed
 
 		// Some diff MT & MT2
