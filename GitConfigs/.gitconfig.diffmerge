@@ -1,0 +1,17 @@
+[user]
+	name = Steve Davis
+	email = deevodavis71@gmail.com
+[diff]
+	tool = diffmerge
+[difftool]
+    	prompt = false
+[difftool "diffmerge"]
+	cmd = /usr/local/bin/diffmerge.sh \"$LOCAL\" \"$REMOTE\"
+[merge]
+	tool = diffmerge
+[mergetool]
+	keepBackup = false
+    	prompt = false
+[mergetool "diffmerge"]
+	trustExitCode = true
+	cmd = /usr/local/bin/diffmerge.sh --merge --result=\"$MERGED\" \"$LOCAL\" \"$BASE\" \"$REMOTE\"
