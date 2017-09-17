@@ -6,7 +6,7 @@ public class SteveX2 {
 
 		System.out.println ("NEW More Hello to young Steves New MT2 Changed World!");
 
-		// Do some work here!
+		// Do some work here! Change
 		// New line that is changed
 
 		// Some diff MT & MT2
@@ -14,6 +14,7 @@ public class SteveX2 {
 
 
 		// Non conflicting change - for diff
+		// NEW
 
 	}
 
