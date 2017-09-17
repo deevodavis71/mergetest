@@ -19,6 +19,8 @@ public class SteveX2 {
 
 		// Another line
 
+		// A new non-conflicting line
+
 	}
 
 }
