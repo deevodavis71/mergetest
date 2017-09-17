@@ -28,6 +28,8 @@ public class SteveX2 {
 
 		// New non conflict
 
+		// Test out auto merge window hiding
+
 	}
 
 }
