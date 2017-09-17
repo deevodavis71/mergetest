@@ -7,7 +7,7 @@ public class SteveX2 {
 		System.out.println ("More Hello to young Steves New MT2 Changed World!");
 
 		// Do some work here!
-		// New line
+		// New line that is changed
 
 		// Some diff MT & MT2
 		// Another crazy diff by someone else MT & MT2
