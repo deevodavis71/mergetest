@@ -14,5 +14,4 @@
     	prompt = false
 [mergetool "diffmerge"]
 	trustExitCode = true
-	# cmd = /usr/local/bin/diffmerge.sh --merge --result=\"$MERGED\" \"$LOCAL\" \"$BASE\" \"$REMOTE\"
-	cmd = /usr/local/bin/diffmerge.sh --result=\"$MERGED\" \"$LOCAL\" \"$BASE\" \"$REMOTE\"
+	cmd = /usr/local/bin/diffmerge.sh --merge --result=\"$MERGED\" \"$LOCAL\" \"$BASE\" \"$REMOTE\"
