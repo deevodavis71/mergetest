@@ -10,7 +10,7 @@ public class SteveX2 {
 		// New line
 
 		// Some diff
-		// Another diff by someone else
+		// Another crazy diff by someone else
 
 	}
 
