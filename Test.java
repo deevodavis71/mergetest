@@ -6,10 +6,11 @@ public class SteveX2 {
 
 		System.out.println ("NEW More Hello to young Steves New MT2 Changed World!");
 
-		// Do some work here!
+		// Do some work here! CONFLICT
 		// New line that is changed
 
 		// Some diff MT & MT2
+		// Non conflict?
 		// Another crazy diff by someone else MT & MT2
 
 
